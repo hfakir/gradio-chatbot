@@ -9,4 +9,4 @@ A web-based Q&A chatbot built with **Gradio**, **LangChain**, and **IBM watsonx.
 4. Run the app: `python app.py`
 
 ## Certification
-https://www.credly.com/badges/412b143f-16d5-4792-8ee6-0ee76522f072/public_url
+[![IBM Badge](https://img.shields.io/badge/IBM-Develop_Generative_AI_Applications-blue?style=for-the-badge)](https://www.credly.com/badges/412b143f-16d5-4792-8ee6-0ee76522f072/public_url)
